@@ -2,26 +2,26 @@
 This document outlines terminology used throughout the incident response materials, as well as defines incident severity levels to enable consistent operations.<br>
 
 # Incident Commander (also known as 'the Incident Manager') 
-<b>Definition</b>: The Incident Commander role is the primary point of contact for a security incident, and may or may not be the manager for the security incident response team. There may be multiple incident commanders during an incident depending on the incident duration, work shift overlaps, and timezones involved, however only 1 person should own the overall incident from the security side. Each incident should have 1 commander primarily responsible for the actions below.<br>
+<b>Definition</b>: The Incident Commander role is the primary point of contact for a security incident, and may or may not be the manager of the security incident response team. There may be multiple incident commanders during an incident depending on the incident duration, work shift overlaps, and timezones involved; however only one person should own the overall incident from the security side. Each incident should have one commander primarily responsible for the actions below.<br>
 
 <b>Responsibilities</b>:<br>
 * Primary point of contact for a security incident for all stakeholders.
-* Ensures the right stakeholders are found and looped in
-* Ensures that key points are being captured in the incident working document, significant events are captured in the timeline, action items and owners are identified, verifying incident priority/determining if priority should be increased/decreased, and to formally call a close to the incident. 
-* Responsible for executive communication preparation (when applicable)
-* Panic management: During an incident things may become heated as a result of the 'fog of war' during a security incident. The incident commander shall take necessary steps to ensure stakeholders remain calm, and focused. This may include removing people who are providing no value to the investigation. 
-* Scheduling blameless retrospectives, also known as postmortems with key stakeholders involved in the incident. This will enable all stakeholders to weigh in as to the handling of the incident and satisfaction with the action items identified and handed off. 
-* Delegator of tasks to subject matter experts
+* Ensures the right stakeholders are found and looped in.
+* Ensures that key points are captured in the incident working document, significant events are captured in the timeline, action items and owners are identified, incident priority is verified/determined if it should be increased/decreased, and to formally call a close to the incident. 
+* Responsible for executive communication preparation (when applicable).
+* Panic management: During an incident things may become heated as a result of the 'fog of war' during a security incident. The incident commander shall take necessary steps to ensure stakeholders remain calm and focused. This may include removing people who are providing no value to the investigation. 
+* Scheduling blameless retrospectives, also known as postmortems, with key stakeholders involved in the incident. This will enable all stakeholders to weigh in as to the handling of the incident and satisfaction with the action items identified and handed off. 
+* Delegator of tasks to subject matter experts.
 
 # Security Analyst/Engineer/Security Oncall
 <b>Definition</b>: A member of the security team looped in to perform technical analysis of the incident. 
 
 <b>Responsibilities:</b><br>
 * Technical analysis of the incident. Typically involving system expertise, product expertise, monitoring expertise, and forensic expertise. 
-* Remediation research, and guidance for confirmed vulnerabilities or threats
+* Remediation research, and guidance for confirmed vulnerabilities or threats.
 * Remediation development in combination with engineering/ops key subject matter experts. 
-* Captures key events in the incident working document
-* Pulls in incident commander when necessary
+* Captures key events in the incident working document.
+* Pulls in incident commander when necessary.
 
 # Incident supporter
 <b>Definition</b>: A representative from engineering (most often a software engineer), site reliability engineer, or product manager which provides subject matter expertise and support during, and after an incident.
@@ -31,7 +31,7 @@ This document outlines terminology used throughout the incident response materia
 
 # Key non security incident stakeholders
 The following list outlines common stakeholders that will be involved with a security incident or breach. 
-* <b>Product manager:</b> Owner of the product or service impacted by the incident
+* <b>Product manager:</b> Owner of the product or service impacted by the incident.
 * <b>IT engineers and management:</b> Front line engineers helping to troubleshoot, and resolve the incident. 
 * <b>Site reliability engineer:</b> Front line engineers helping to troubleshoot, and resolve the incident. 
 * <b>Software engineer:</b> Front line engineers helping to troubleshoot, and resolve the incident. 
