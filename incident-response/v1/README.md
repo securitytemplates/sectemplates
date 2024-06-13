@@ -46,4 +46,4 @@ This contains common, useful metrics for measuring an incident response program.
 <b>Question:</b> You seem to be missing something and I'd like to suggest a modification. How can I reach out to you?<br>
 <b>Answer: </b> Please use the <a href="https://www.sectemplates.com/contact-us.html">contact us form on our main website</a>.
 
-Template copied from Sectemplates.com
+Document version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
