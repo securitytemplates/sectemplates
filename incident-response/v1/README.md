@@ -1,7 +1,7 @@
 # Introduction to the incident response release pack 1.0
 Welcome to the incident response release pack, the goal of this release is to provide you with everything you'd need to establish a functioning security incident response program at your company. 
 <br><br>
-We suggest reviewing the material in the order specified below
+We suggest checking out our <a href="https://www.sectemplates.com/2024/06/announcing-the-incident-response-program-pack-10.html">release announcement</a>, and to review the material in the order specified below
 
 
 # 1. Incident response definitions and severity levels
