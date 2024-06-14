@@ -6,4 +6,4 @@ I'd like to announce the creation of sectemplates.com, a website where infosec p
 - Programs and their associated processes
 - Useful security metrics
 
-Templates are free to use for personal and commercial use, with the exception of including them in a product that's for sale.
+Content is free to use for personal and commercial purposes, with the exception of including it in a product that's for sale or a product developed based on it. Please see licensing under each project for details. 
