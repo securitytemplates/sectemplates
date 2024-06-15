@@ -43,7 +43,7 @@ This contains common, useful metrics for measuring an incident response program.
 <b>Question:</b> Why should I use this instead of chatgpt or other AI?<br>
 <b>Answer:</b> Material released on Sectemplates has been battle-tested in various companies ranging from 100 to 30,000 employees successfully and has been vetted by individuals developing and running these programs. AI can confuse standards, articles written by people who have never run such a program, and opinion pieces. Everything in Sectemplates has actually been utilized in the real world by qualified professionals.
 <br><br>
-<b>Question:</b> You seem to be missing something and I'd like to suggest a modification. How can I reach out to you?<br>
+<b>Question:</b> You seem to be missing something and I'd like to make a suggestion or request. How can I reach out to you?<br>
 <b>Answer: </b> Please use the <a href="https://www.sectemplates.com/contact-us.html">contact us form on our main website</a>.
 
 Document version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
