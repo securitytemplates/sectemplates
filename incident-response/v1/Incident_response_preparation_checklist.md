@@ -13,15 +13,15 @@ This section outlines initial activities and considerations to develop your init
 - [ ] <b>Develop an Incident Response Working Document Template:</b> Each incident should have an associated document that captures everything involved. A <a href="./samples/">sample incident response working document is available</A> within this release pack.
 - [ ] <b>Determine Ticketing System Used to Track Incidents:</b> Each incident should have an associated ticket in your bugtracker, such as Jira. It's safer to lock down incident tickets to only those involved as it may contain PII, employee information, or information that could compromise the security of the company.
 - [ ] <b>Determine Postmortem Template:</b> Minimally, each high or critical incident should have a postmortem to evaluate how the incident operated, to discuss root causes, and to determine followup items. A <a href="./Security_incident_blameless_postmortem_template.md">blameless postmortem document template is available</a> within this release pack. 
-- [ ] <b>Run Test Incident to Verify Process:</b> It's important to know that when something occurs, your process is functioning and the initial issues have been worked out. It's strongly recommended you perform a practice run, using a tabletop exercise to simulate a breach and how you and your stakeholders would respond to it. 
-- [ ] <b>Develop an Inventory of Stakeholder Points of Contacts (POCs):</b> During an incident it's critical to reach the right technical stakeholders, and owners who can help with analysis, and decision making. It's recommended you develop a sample point of contact spreadsheet that's always updated<br>
+- [ ] <b>Run Test Incident/Tabletop to Verify Process:</b> It's important to know that when something occurs, your process is functioning and the initial issues have been worked out. It's strongly recommended you perform a practice run, using a tabletop exercise to simulate a breach and how you and your stakeholders would respond to it. 
+- [ ] <b>Develop an Inventory of Stakeholder Points of Contacts (POCs):</b> During an incident it's critical to reach the right technical stakeholders, and owners who can help with analysis, and decision making. It's recommended you develop a sample point of contact spreadsheet that's always updated with key stakeholders from Legal, HR, Marketing, SRE, Operations, Engineering, etc... As part of this process, it's essential to reach out to each stakeholder to discuss expectations, and possible support needed from them or their teams. <br>
 
     | Name     |  Role    | Team channel                  | Emergency contact info|
     |----------|----------|------------------------------|------------------------| 
     |Johnny Mnemonic | Mobile app developer | #mobile-eng| See workday
     |Ralfi Face | Mobile app manager | #mobile-eng | 555-867-9309
     |SRE Oncall| Main SRE oncall alias| #sre-eng| Tag @SRE-Oncall in main channel|
-
+- [ ] <b>Establish law enforcement communication channels:</b> When an incident occurs that requires law enforcement, you don't want to have to figure out how to establish the relationship in that moment. It's recommended that you establish points of contact for your local law enforcement office (e.g. local FBI field office) in collaboration with your legal team. This enables you to understand how, and when to loop them in collaboration with your legal team. 
 - [ ] <b>Optional Incident Response Retainer:</b> There are companies that offer on demand incident response support that you can pull in as needed. This will likely cost between 30k-100k USD and will ultimately be determined based on your budget. 
 
 ## After Completing the Checklist

@@ -35,6 +35,13 @@ A one paragraph overview of what happened, it's impact, and next steps.
 <b>Note</b>: Every item that didn't go well should probably translate into an action item. 
 * Fill items that went 'poorly'.
 
+
+# Open questions
+| Priority | Question | Notes | Answer|
+|---------|-------|-------|---------|
+|P0| Has customer data been impacted? If so what is the scope?| | 
+|P0| Has attacker/s compromised an asset? If so, what is being done to determine the full scope of a potential breach? | | 
+
 # Action Items/Followups
 Fill in followup action items as a result of this incident. List tickets, owners, and initial timeline estimates. 
 | Priority | Status| Action name | Action owner | Estimated resolution | Link to Jira ticket| 

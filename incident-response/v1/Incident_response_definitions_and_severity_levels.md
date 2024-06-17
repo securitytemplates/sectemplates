@@ -1,17 +1,19 @@
 # Definitions and terminology
 This document outlines terminology used throughout the incident response materials, as well as defines incident severity levels to enable consistent operations.<br>
 
-# Incident Commander (also known as 'the Incident Manager') 
+# Incident Commander
 <b>Definition</b>: The Incident Commander role is the primary point of contact for a security incident, and may or may not be the manager of the security incident response team. There may be multiple incident commanders during an incident depending on the incident duration, work shift overlaps, and timezones involved; however only one person should own the overall incident from the security side. Each incident should have one commander primarily responsible for the actions below.<br>
 
 <b>Responsibilities</b>:<br>
 * Primary point of contact for a security incident for all stakeholders.
 * Ensures the right stakeholders are found and looped in.
-* Ensures that key points are captured in the incident working document, significant events are captured in the timeline, action items and owners are identified, incident priority is verified/determined if it should be increased/decreased, and to formally call a close to the incident. 
+* Ensures that key points are captured in the <a href="./Security_incident_working_document_template.md">incident working document</a>, significant events are captured in the timeline, action items and owners are identified, incident priority is verified/determined if it should be increased/decreased, and to formally call a close to the incident. 
 * Responsible for executive communication preparation (when applicable).
 * Panic management: During an incident things may become heated as a result of the 'fog of war' during a security incident. The incident commander shall take necessary steps to ensure stakeholders remain calm and focused. This may include removing people who are providing no value to the investigation. 
 * Scheduling blameless retrospectives, also known as postmortems, with key stakeholders involved in the incident. This will enable all stakeholders to weigh in as to the handling of the incident and satisfaction with the action items identified and handed off. 
 * Delegator of tasks to subject matter experts.
+
+<b>Note</b>: If possible, finding a project manager to assist with coordination of tasks, open questions requiring answers, and followup items. This will enable the incident commander to focus on driving the incident efficiently. 
 
 # Security Analyst/Engineer/Security Oncall
 <b>Definition</b>: A member of the security team looped in to perform technical analysis of the incident. 
@@ -44,7 +46,9 @@ The following list outlines common stakeholders that will be involved with a sec
 
 
 # Incident response levels
-It is strongly encouraged that you insert these security incident response levels into your existing incident response process vs having a second stand alone document. This enables 1 central view for different categories of incidents, with clear criteria for non security stakeholders to determine if an incident is security in nature. 
+It is strongly encouraged that you insert these security incident response levels into your existing incident response process vs having a second stand alone document. This enables 1 central view for different categories of incidents, with clear criteria for non security stakeholders to determine if an incident is security in nature. <br><br>
+
+We also recommend customization of the table below, that align closely with your business objectives and risk concerns (e.g. data exposure, money loss, physical security concerns, etc..).  
 
 | Severity| Criteria description | Impacts| Notifications required|Examples|
 |---------|----------------------|-------|------------------------|---------|

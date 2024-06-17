@@ -28,6 +28,13 @@ Include all relevant conclusions, should include <br>
 | P1 | Completed | File behavior as a defect within appropriate engineering team| John Mcafee|4/20/24| [EPIC-1337](https://yourjira/EPIC-1337)  
 | P1 | Planned| Schedule incident retrospective| Morpheus | 4/22/24| [INCIDENT-31338](https://yourjira/INCIDENT-31338)|
 
+# Open questions
+| Priority | Question | Notes | Answer|
+|---------|-------|-------|---------|
+|P0| Has customer data been impacted? If so what is the scope?| | 
+|P0| Has attacker/s compromised an asset? If so, what is being done to determine the full scope of a potential breach? | | 
+
+
 # Stakeholders
 | Name     |  Role    | Involvement                  |
 |----------|----------|------------------------------| 
