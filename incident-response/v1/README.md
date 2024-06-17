@@ -1,7 +1,7 @@
 # Introduction to the incident response release pack 1.0
 Welcome to the incident response release pack, the goal of this release is to provide you with everything you'd need to establish a functioning security incident response program at your company. 
 <br><br>
-We suggest checking out our <a href="https://www.sectemplates.com/2024/06/announcing-the-incident-response-program-pack-10.html">release announcement</a>, and to review the material in the order specified below
+We suggest reviewing the material in the order specified below
 
 
 # 1. Incident response definitions and severity levels
@@ -43,7 +43,11 @@ This contains common, useful metrics for measuring an incident response program.
 <b>Question:</b> Why should I use this instead of chatgpt or other AI?<br>
 <b>Answer:</b> Material released on Sectemplates has been battle-tested in various companies ranging from 100 to 30,000 employees successfully and has been vetted by individuals developing and running these programs. AI can confuse standards, articles written by people who have never run such a program, and opinion pieces. Everything in Sectemplates has actually been utilized in the real world by qualified professionals.
 <br><br>
-<b>Question:</b> You seem to be missing something and I'd like to make a suggestion or request. How can I reach out to you?<br>
+<b>Question:</b> You seem to be missing something and I'd like to suggest a modification. How can I reach out to you?<br>
 <b>Answer: </b> Please use the <a href="https://www.sectemplates.com/contact-us.html">contact us form on our main website</a>.
+<br><br>
+<b>Question:</b> I'm looking for something more comprehensive, where can I go?<br>
+<b>Answer: </b> NIST has developed <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r3.ipd.pdf">NIST 800-61</a> which is a more extensive incident response approach.
+
 
 Document version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
