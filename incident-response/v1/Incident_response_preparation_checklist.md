@@ -22,9 +22,13 @@ This section outlines initial activities and considerations to develop your init
     |Ralfi Face | Mobile app manager | #mobile-eng | 555-867-9309
     |SRE Oncall| Main SRE oncall alias| #sre-eng| Tag @SRE-Oncall in main channel|
 - [ ] <b>Establish law enforcement communication channels:</b> When an incident occurs that requires law enforcement, you don't want to have to figure out how to establish the relationship in that moment. It's recommended that you establish points of contact for your local law enforcement office (e.g. local FBI field office) in collaboration with your legal team. This enables you to understand how, and when to loop them in collaboration with your legal team. 
-- [ ] <b>Optional Incident Response Retainer:</b> There are companies that offer on demand incident response support that you can pull in as needed. This will likely cost between 30k-100k USD and will ultimately be determined based on your budget. 
+- [ ] <b>Optional Incident Response Retainer:</b> There are companies that offer on demand incident response support that you can pull in as needed. This will likely cost between 30k-100k USD and will ultimately be determined based on your budget.
 
 ## After Completing the Checklist
 Please see the <a href="./Incident_response_runbook.md">incident response runbook</a> for information on handling an incident. 
+
+## Additional resources
+- [ ] <b>Incident Response Automation:</b> Netflix has an open source tool called <a href="https://netflixtechblog.com/introducing-dispatch-da4b8a2a8072">Dispatch</a> that can help automate the aspects of responding to an incident. 
+
 
 Checklist version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
