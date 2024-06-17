@@ -47,7 +47,7 @@ This contains common, useful metrics for measuring an incident response program.
 <b>Answer: </b> Please use the <a href="https://www.sectemplates.com/contact-us.html">contact us form on our main website</a>.
 <br><br>
 <b>Question:</b> I'm looking for something more comprehensive, where can I go?<br>
-<b>Answer: </b> NIST has developed <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r3.ipd.pdf">NIST 800-61</a> which is a more extensive incident response approach.
+<b>Answer: </b> NIST has developed <a href="https://csrc.nist.gov/pubs/sp/800/61/r2/final">NIST 800-61</a> which is a more extensive incident response approach.
 
 
 Document version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
