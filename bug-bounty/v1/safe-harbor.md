@@ -1,15 +1,15 @@
-# Safe Harbour Policy
+# Safe Harbor Policy
 
 ## What is safe harbor?
 A “safe harbor” is a provision that offers protection from liability in certain situations, usually when certain conditions are met. In the context of security research and vulnerability disclosure, it is a statement from an organization that hackers engaged in Good Faith Security Research and ethical disclosure are authorized to conduct such activity and will not be subject to legal action from that organization.
 
  ## Why do you need safe harbor?
 
-There are instances where companies have taken legal actions against security researchers when they have reported vulnerabilities. Having a safe harbour policy in place assures researchers about your intent to work with them in good faith.
+There are instances where companies have taken legal actions against security researchers when they have reported vulnerabilities. Having a safe harbor policy in place assures researchers about your intent to work with them in good faith.
 
 Bug bounty platforms will bring this up in your initial conversations as well.
 
-## Sample Safe Harbour
+## Sample Safe Harbor
 
 When conducting vulnerability research according to this policy, we consider this research to be:
 
