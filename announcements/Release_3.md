@@ -16,7 +16,7 @@ In this pack, we cover:
 <b>Bug Bounty Metrics:</b> This file contains sample, baseline metrics for tracking your bug bounty program and reporting on it internally.<br>
 <br>
 ## Download on GitHub:
-FILL IN YO
+<a href="https://github.com/securitytemplates/sectemplates/tree/main/bug-bounty/v1">https://github.com/securitytemplates/sectemplates/tree/main/bug-bounty/v1</a>
 
 ## About SecTemplates
 <a href="https://www.sectemplates.com/">SecTemplates.com</A> provides simplified, free, and usable open-source templates to enable engineering and smaller security teams to bootstrap security capabilities in their organizations.
