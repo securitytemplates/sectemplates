@@ -1,24 +1,24 @@
-# Introduction to the incident response release pack 1.0
+# Introduction to the incident response program pack 1.0
 Welcome to the incident response release pack, the goal of this release is to provide you with everything you'd need to establish a functioning security incident response program at your company. 
 <br><br>
 We suggest reviewing the material in the order specified below
 
 
 # 1. Incident response definitions and severity levels
-This document introduces you to sample terminology and roles during an incident, the various stakeholders who may need to be pulled in to support an incident, and sample incident severity rankings.
+This <a href="./Incident_response_definitions_and_severity_levels.md">document</a> introduces you to sample terminology and roles during an incident, the various stakeholders who may need to be pulled in to support an incident, and sample incident severity rankings.
 
 # 2. Incident response preparation checklist
-This checklist provides you with every step required to research, pilot, test, and rollout a functioning incident response program. 
+This <a href="./Incident_response_preparation_checklist.md">checklist</a> provides you with every step required to research, pilot, test, and rollout a functioning incident response program. 
 
 # 3. Incident response workflow
 Below is an outline of a simplified incident response process. It aligns roughly with the content in the incident response runbook.<br><br>
 <img src="Incident_response_process.png">
 
 # 4. Incident response runbook
-This runbook outlines the process a security team can use to ensure the right steps are followed during an incident, in a consistent manner.
+This <a href="./Incident_response_runbook.md">runbook</a> outlines the process a security team can use to ensure the right steps are followed during an incident, in a consistent manner.
 
 # 5. Incident response working document template
-This template is the primary working document for capturing all details of an incident. 
+This <a href="./Security_incident_working_document_template.md">template</a> is the primary working document for capturing all details of an incident. 
 
 
 # 6. Incident postmortem/retrospective template
@@ -28,13 +28,13 @@ After a security incident, it's important to have a look back with key stakehold
 * What went poorly
 * Action items/follow ups to improve efficiencies moving forward<br>
 
-Scheduling a postmortem meeting with core incident stakeholders and using a postmortem document to capture the outcomes will provide a complete view of how the incident was handled. This enables your organization to handle future incidents more efficiently and provides an opportunity to learn and course-correct along the way. It is strongly recommended to take a 'blameless' postmortem approach, focusing less on personal mistakes and more on the root causes and corrective actions. This encourages people to speak up and be honest about the situation, saving time, uncovering information, and reducing fear of participation.
+Scheduling a postmortem meeting with core incident stakeholders and using a postmortem document to capture the outcomes will provide a complete view of how the incident was handled. This enables your organization to handle future incidents more efficiently and provides an opportunity to learn and course-correct along the way. It is strongly recommended to take a <a href="./Security_incident_blameless_postmortem_template.md">'blameless' postmortem</a> approach, focusing less on personal mistakes and more on the root causes and corrective actions. This encourages people to speak up and be honest about the situation, saving time, uncovering information, and reducing fear of participation.
 
 # 7. Samples folder
-This contains filled out examples of both the incident response working document, and postmortem templates to give you an idea of what the end product can look like. 
+This <a href="./samples/">contains filled out examples</a> of both the incident response working document, and postmortem templates to give you an idea of what the end product can look like. 
 
 # 8. Incident response metrics
-This contains common, useful metrics for measuring an incident response program. 
+This contains common, <a href="./Incident_response_metrics.md">useful metrics</a> for measuring an incident response program. 
 
 # Incident response frequently asked questions
 <b>Question:</b> What software did you use to create the process diagram?<br>
