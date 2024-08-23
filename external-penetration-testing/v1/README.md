@@ -4,13 +4,13 @@ Welcome to the penetration testing release pack, this release contains everythin
 We suggest reviewing the material in the order specified below.
 
 # 1. Penetration testing preparation checklist
-This checklist outlines everything you need to scope and perform a penetration test.
+This <a href="./Pentesting_preparation_checklist.md">checklist</a> outlines everything you need to scope and perform a penetration test.
 
 # 2. Penetration testing reporting requirements
-This document provides a list of minimal requirements that should be contained within a penetration testing report.  Before finalizing a SOW with the vendor, look here first.
+This <a href="./Pentest_reporting_requirements.md">document</a> provides a list of minimal requirements that should be contained within a penetration testing report.  Before finalizing a SOW with the vendor, look here first.
 
 # 3. Penetration testing process workflow
-Below is an outline of a simplified pentesting process with an external tester. It aligns roughly with the content in the penetration testing checklist.
+Below is an outline of a <a href="./Simplified_pentest_process.png">simplified pentesting process</a> with an external tester. It aligns roughly with the content in the penetration testing checklist.
 <img src="./Simplified_pentest_process.png">
 
 # Penetration testing frequently asked questions
