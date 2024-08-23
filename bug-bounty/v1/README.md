@@ -5,26 +5,26 @@ The goal of this release is to provide you with everything you need to establish
 It is recommended to review the material in the order specified below.
 
 # 1. Bug Bounty Preparation Checklist
-This checklist provides every step required to research, pilot, test, roll out, and expand a bug bounty program at your company.
+This <a href="./Bug_bounty_preparation_checklist.md">checklist</a> provides every step required to research, pilot, test, roll out, and expand a bug bounty program at your company.
 
 # 2. Bug Bounty Reporting Requirements 
-This document outlines the required information you'll need from a security researcher or vulnerability reporter as part of a bug bounty program.
+This <a href="./Bug_bounty_reporting_requirements.md">document</a> outlines the required information you'll need from a security researcher or vulnerability reporter as part of a bug bounty program.
 
 # 3. Bug Bounty Policy
-This document contains a sample bug bounty policy that you can copy, adjust, and publish on your site. <b>It is strongly encouraged that you review this with your legal team prior to publication</b>.
+This document contains a <a href="./Bug_bounty_simplified_policy.md">sample bug bounty policy</a> that you can copy, adjust, and publish on your site. <b>It is strongly encouraged that you review this with your legal team prior to publication</b>.
 
 # 4. Bug Bounty Submission Response Templates 
-This document provides copy/paste message/email templates that can be used to communicate with external security researchers for the most common scenarios.
+This <a href="./Bug_bounty_sample_responses.md">document</a> provides copy/paste message/email templates that can be used to communicate with external security researchers for the most common scenarios.
 
 # 5. Bug Bounty Process Workflows
-This diagram outlines the various steps to perform once a bug bounty program is established and you start receiving vulnerability reports. From verifying the issue to pulling in stakeholders for support, managing incidents, and public notifications. It aligns roughly with the context in the bug bounty checklist.<br><br>
+This <a href="./Bug_bounty_process.png">diagram</a> outlines the various steps to perform once a bug bounty program is established and you start receiving vulnerability reports. From verifying the issue to pulling in stakeholders for support, managing incidents, and public notifications. It aligns roughly with the context in the bug bounty checklist.<br><br>
 <img src="./Bug_bounty_process.png">
 
 # 6. Bug Bounty Runbook 
-A runbook the security team can use to ensure consistent steps are followed when a vulnerability report is received.
+A <a href="./Bug_bounty_runbook.md">runbook</a> the security team can use to ensure consistent steps are followed when a vulnerability report is received.
 
 # 7. Bug Bounty Metrics
-This file contains sample, baseline metrics for tracking your bug bounty program and reporting on it internally.
+This <a href="./Bug_bounty_metrics.md">file contains sample, baseline metrics</a> for tracking your bug bounty program and reporting on it internally.
 
 # Bug Bounty Frequently Asked Questions
 
