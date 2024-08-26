@@ -7,7 +7,9 @@ This document outlines tasks you should perform prior to, and during the launch 
 * Bounty scope
 * Financial considerations
 * Processes and materials necessary prior to launching a program
-* Expanding your bounty program  
+* Expanding your bounty program
+
+<b>Note:</b> Bug bounty programs should NOT be the starting point for security testing at your company. You should first utilize security scanning and <a href="https://www.sectemplates.com/2024/06/announce-the-external-penetration-testing-program-pack-10.html">penetration testing</a> before launching a <a href="https://www.sectemplates.com/2024/07/announcing-the-bug-bounty-program-pack-10.html">bug bounty program</a>.
 
 ## Checklist
 - [ ] <b>Identify Key Stakeholders:</b> It's critical to identify the minimum set of key stakeholders within security, engineering, product, and operations, and to notify them of your intention to run a bug bounty program. These interactions should clearly discuss your timing/rollout plan and the role their organizations may play. Collaboration is critical to alleviate concerns around increased workloads, urgent requests, and benefits for the applications/features/domains within the scope of a bug bounty program. This step should not be rushed.
@@ -38,5 +40,5 @@ This document outlines tasks you should perform prior to, and during the launch 
 - [ ] <b>Continuously Monitor Budget Impact Against Forcast:</b> You may see a huge influx of issues you weren't expecting, which could quickly drain your payout pool. This is why launching a private bounty first is essential to understand the volume and payouts for initial low-hanging fruit. You don't want to launch a program, run out of money, and be unable to pay researchers who have played by your rules. This will result in very negative backlash from the security research community, including negative press and potential consequences from your bug bounty provider.
 - [ ] <b>Launch Public Bounty: </b> At this stage, you have rolled out a private bounty, expanded it, tested your processes, verified your budget, and ensured you are resourced correctly to handle the workload. Work with your bug bounty provider to best understand how to enable and promote your public bounty program. The launch of your program may gain media attention, so it's best to coordinate with your public relations and legal teams prior to launching to ensure there's no conflict during a possible company-wide information embargo.
 <br><br>
-Document version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
+Document version 1.1 copied from [Sectemplates.com](https://www.sectemplates.com)
 
