@@ -10,7 +10,6 @@ This <a href="./Security_exceptions_definitions.md">document</a> describes commo
 # 2. Security exception reporting requirements
 This <a href="./Security_exception_reporting_requirements.md">document</a> describes the minimal information needed in a vulnerability report to support evaluation and prioritization. It also includes examples of automation that can be used to report vulnerability remediation expectations to risk owners.
 
-
 # 3. Security exception program preparation checklist
 This <a href="./Security_Exception_preparation_checklist.md">checklist</a> provides a step-by-step guide to researching, piloting, testing, and rolling out security exception tracking at your company. It also discusses examples of automation for tracking exception ticket health and oversight.
 
@@ -25,7 +24,7 @@ This diagram outlines the various steps to perform when
 
 
 # 5. Security exception runbooks
-This <a href="./Security_exception_runbooks.md">runbook</a> contains the steps outlined in the process diagram as a checklist, with a strong focus on ticket health oversight and stakeholder support.
+This <a href="./Security_exception_runbooks.md">runbook</a> contains the steps outlined in the process diagram as a checklist with a strong focus on stakeholder support.
 
 # 6. Security exception document template and tracker
 The <a href="./Security_exception_template.md">security exception template</a> can be used in a word document for capturing exception details, and the <a href="./Security_exceptions_tracker.csv">Exception tracker</a> can be used when a bug tracker is not used.
