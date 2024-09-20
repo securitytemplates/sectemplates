@@ -1,0 +1,4 @@
+Priority, Status, Decision date, Type of request, Description, Risk Owner, Risk Approvers, Exception Link, Notes
+Critical, Pending, 1/1/2000, Risk extension, Persistent XSS in public forums can enable cookie theft and phishing, Hal, Mr the Plague and Margo, SECURITY-31337, Hal is requesting 10 more days to fix
+High, Denied, 12/30/1999, Risk extension, Fix y2k bug in January 2000, Hal, Mr the Plague, https://googledrive/, Decision to deny given the potential downtime aspects to the business. 
+Medium, Approved, 12/10/1999, Accept risk without fix, Request not to update system in December due to system replacement in the first week of January 2000, Hal, Mr the Plague, SECURITY-1337, IT is requesting not to upgrade the API endpoint OS because in 3 weeks it will be fully replaced as part of a scheduled project plan.
