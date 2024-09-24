@@ -30,4 +30,4 @@ The goal of this release is to provide you with everything you'd need to establi
 The goal of this release is to provide all the necessary resources to establish and set up a fully functioning vulnerability management program at your company. 
 
 ## Security Exceptions
-The goal of this release is to provide all the necessary resources to establish and set up a fully functioning security exceptions program at your company. We recommend reviewing the material in the order specified below.
+The goal of this release is to provide all the necessary resources to establish and set up a fully functioning security exceptions program at your company.
