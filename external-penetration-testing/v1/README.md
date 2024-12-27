@@ -1,4 +1,4 @@
-# Introduction to the external penetration testing program pack 1.0
+# Introduction to the external penetration testing program pack 1.1
 Welcome to the penetration testing release pack, this release contains everything you need to scope your first pentest, work with a vendor, execute, and get the types of reports you need from an external tester. This will enable you to perform your first product or infrastructure level penetration test, and provide you with a process moving forward for future engagements.
 <br><br>
 We suggest reviewing the material in the order specified below.
@@ -26,4 +26,4 @@ Below is an outline of a <a href="./Simplified_pentest_process.png">simplified p
 <b>Question:</b> You seem to be missing something and I'd like to suggest a modification. How can I reach out to you?<br>
 <b>Answer: </b> Please use the <a href="https://www.sectemplates.com/contact-us.html">contact us form on our main website</a>.
 
-Document version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
+Document version 1.1 copied from [Sectemplates.com](https://www.sectemplates.com)
