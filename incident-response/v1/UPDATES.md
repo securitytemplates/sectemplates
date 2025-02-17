@@ -3,7 +3,8 @@
 2/16/2025 - v1.5 - Released to address the following changes
  * Address typos in the 'Security incident working template', 'Security incident blameless postmortem template', 'Incident response runbook', 'Incident response metrics', Samples documents, 'Incident response preparation checklist', and formatting enhancements.
  * Improve language/grammar in 'Incident response definitions and severity levels'.
- * Update README to include information on how to get the latest announcements/updates, and improve navigation. 
+ * Update README to include information on how to get the latest announcements/updates, and improve navigation.
+ * Update the diagram to more effectively loop back to incident closure under all circumstances.
  * Formatting adjustments to the pack for consistency.
 
 10/10/2024 - v1.1 - Released to improve size/look of diagram, added language for public notification SLAS to the preparation checklist, as all as including minor formatting changes.
