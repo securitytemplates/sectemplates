@@ -5,6 +5,7 @@
  * Improve language/grammar in 'Incident response definitions and severity levels'.
  * Update README to include information on how to get the latest announcements/updates, and improve navigation. 
  * Formatting adjustments to the pack for consistency.
+
 10/10/2024 - v1.1 - Released to improve size/look of diagram, added language for public notification SLAS to the preparation checklist, as all as including minor formatting changes.
 
 6/13/2024 - V1 - Released
