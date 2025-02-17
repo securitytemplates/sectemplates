@@ -1,6 +1,6 @@
 # Security Incident Response Program Pack Updates
 
-2/16/2025 - v1.x - Released to address the following changes
+2/16/2025 - v1.5 - Released to address the following changes
  * Address typos in the 'Security incident working template', 'Security incident blameless postmortem template', 'Incident response runbook', 'Incident response metrics', Samples documents, 'Incident response preparation checklist', and formatting enhancements.
  * Improve language/grammar in 'Incident response definitions and severity levels'.
  * Update README to include information on how to get the latest announcements/updates, and improve navigation. 
