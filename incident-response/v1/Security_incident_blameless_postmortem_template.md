@@ -1,18 +1,18 @@
-Authors: Incident Commander -  Morpheus (morpheus@therealworld.net) | Dan Kaminsky (dkaminsky@company.net) <br>
-Version: 1.337<br>
-Created Date: 4/20/24<br>
-Last Updated: 5/5/24<br>
-<a href="./Incident_response_definitions_and_severity_levels.md">[Incident Level</a>: Sev 2<br> 
-Tickets: e.g. [INCIDENT-31337](https://yourjira/INCIDENT-31337)<br> 
-Slack Channels: #incident #incident31337-investigation #ops<br> 
-Working folder: <a href="https://drive.google.com/">https://drive.google.com/</a><br> 
-Incident working document: [INCIDENT-42](https://drive.google.com/?incident-42)<br>
+<b>Authors: </b>Incident Commander -  Morpheus (morpheus@therealworld.net) | Dan Kaminsky (dkaminsky@company.net) <br>
+<b>Version: </b>1.337<br>
+<b>Created Date: </b>4/20/24<br>
+<b>Last Updated: </b>5/5/24<br>
+<a href="./Incident_response_definitions_and_severity_levels.md">Incident Level</a>: Sev 2<br> 
+<b>Tickets: </b>e.g. [INCIDENT-31337](https://yourjira/INCIDENT-31337)<br> 
+<b>Slack Channels: </b>#incident #incident31337-investigation #ops<br> 
+<b>Working folder: </b><a href="https://drive.google.com/">https://drive.google.com/</a><br> 
+<b>Incident working document:</b> [INCIDENT-42](https://drive.google.com/?incident-42)<br>
 
 # Overview
 Use this document during a retrospective meeting on a particular incident, or request stakeholders to fill this out async. The goal of this exercise is not to assign blame, it's to 
-* Identify ineffeciencies to ensure a smoother process moving forward.
+* Identify inefficiencies to ensure a smoother process moving forward.
 * Identify things that went well which can verify if processes/systems are working correctly
-* Verify stakeholder satisfication with how the incident was handled, as well as understanding its root cause
+* Verify stakeholder satisfaction with how the incident was handled, as well as understanding its root cause
 
 # Summary of incident
 A one paragraph overview of what happened, it's impact, and next steps. 
@@ -42,8 +42,8 @@ A one paragraph overview of what happened, it's impact, and next steps.
 |P0| Has customer data been impacted? If so what is the scope?| | 
 |P0| Has attacker/s compromised an asset? If so, what is being done to determine the full scope of a potential breach? | | 
 
-# Action Items/Followups
-Fill in followup action items as a result of this incident. List tickets, owners, and initial timeline estimates. 
+# Action Items/Follow-ups
+Fill in follow-up action items as a result of this incident. List tickets, owners, and initial timeline estimates. 
 | Priority | Status| Action name | Action owner | Estimated resolution | Link to Jira ticket| 
 |----------|-------|-----|--------------|----------------------|--------------------|
 | P1 | Completed | File behavior as a defect within appropriate engineering team| John Mcafee|4/20/24| [EPIC-1337](https://yourjira/EPIC-1337)  

@@ -1,15 +1,15 @@
-Authors: Incident Commander -  Morpheus (morpheus@therealworld.net) | Dan Kaminsky (dkaminsky@company.net) <br>
-Version: 1.337<br>
-Created Date: 5/7/24<br>
-Last Updated: 5/9/24<br>
-Incident Level: Sev 1<br> 
-Tickets: e.g. [INCIDENT-31337](https://yourjira/INCIDENT-31337)<br> 
-Slack Channels: #incident #incident31337 #engineering-escalation<br> 
-Working folder: https://drive.google.com/?drive/folders/1c0VhaaSbnb4-RIsibf8DKdOlkHSsNn8m <br>
-Incident working document: https://docs.google.com/?document/d/1WGz7WNNfoa9DhcOXpmLi0I_Mubc19VlqNSQ9SdHEEPc/edit<br>
+<b>Authors:</b> Incident Commander -  Morpheus (morpheus@therealworld.net) | Dan Kaminsky (dkaminsky@company.net) <br>
+<b>Version:</b> 1.337<br>
+<b>Created Date:</b> 5/7/24<br>
+<b>Last Updated:</b> 5/9/24<br>
+<b>Incident Level:</b> Sev 1<br> 
+<b>Tickets:</b> e.g. [INCIDENT-31337](https://yourjira/INCIDENT-31337)<br> 
+<b>Slack Channels:</b> #incident #incident31337 #engineering-escalation<br> 
+<b>Working folder:</b> https://drive.google.com/?drive/folders/1c0VhaaSbnb4-RIsibf8DKdOlkHSsNn8m <br>
+<b>Incident working document: </b>https://docs.google.com/?document/d/1WGz7WNNfoa9DhcOXpmLi0I_Mubc19VlqNSQ9SdHEEPc/edit<br>
 
 # Summary of incident
-On May 3rd 2024, our customer Acme called into support with an error trying to use the case management API. Support suspected a security issue, and reported that when escalating to Engineering. Engineering determined that there was a blind SQL injection (SQLi) vulnerability, and was able to push a fix to production at 2:48AM PST May 4th 2024. It was determined over the following days that NO unauthorized data disclosure occured.
+On May 3rd 2024, our customer Acme called into support with an error trying to use the case management API. Support suspected a security issue, and reported that when escalating to Engineering. Engineering determined that there was a blind SQL injection (SQLi) vulnerability, and was able to push a fix to production at 2:48AM PST May 4th 2024. It was determined over the following days that NO unauthorized data disclosure occurred.
 
 # Retrospective Participants
 | Name     |  Role    | Involvement                  |
@@ -34,7 +34,7 @@ Questions:
 * Support recognized the potential security aspect, and escalated accordingly
 * Vulnerability was remediated quickly, with no downtime
 * Engineering team did an excellent job coming together quickly and getting the fix live
-* No exploitation occured
+* No exploitation occurred
 * Good logging was available (semi-accidentally), with good historic archiving
 
 # What went ok?
@@ -46,7 +46,7 @@ Questions:
 * We have no proactive monitoring or alerting on this category of problem
 * We don't currently have effective SAST coverage of this category of vulnerability for C code
 
-# Action Items/Followups
+# Action Items/Follow-ups
 | Priority | Status| Action name | Action owner | Estimated resolution | Link to Jira ticket| 
 |----------|-------|-----|--------------|----------------------|--------------------|
 | P1 | Completed | Blind SQLi in case management API 2.0| John Mcafee|5/4/24| [PLAT-8675](https://yourjira/PLAT-8675)
@@ -58,4 +58,4 @@ Questions:
 * [Link to incident working document](https://docs.google.com/?document/d/1WGz7WNNfoa9DhcOXpmLi0I_Mubc19VlqNSQ9SdHEEPc/edit)
 * Put other notes here that may prove useful in the future, but is currently unclear
 
-Sample template version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
+Sample template version 1.5 copied from [Sectemplates.com](https://www.sectemplates.com) 2025

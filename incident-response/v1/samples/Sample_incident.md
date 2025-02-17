@@ -1,11 +1,11 @@
-Authors: Incident Commander -  Morpheus (morpheus@therealworld.net) | Dan Kaminsky (dkaminsky@company.net) <br>
-Version: 1.337 <br>
-Created Date: 5/3/24 <br>
-Last Updated: 5/7/24 <br> 
-Incident Level: Sev3 (medium)<br> 
-Tickets: [INCIDENT-31337](https://yourjira/INCIDENT-31337) <br> 
-Slack Channels: #incident #incident31337 #ops <br> 
-Working folder: https://drive.google.com/drive/folders/1c0VhaaSbnb4-RIsibf8DKdOlkHSsNn8m <br> 
+<b>Authors:</b> Incident Commander -  Morpheus (morpheus@therealworld.net) | Dan Kaminsky (dkaminsky@company.net) <br>
+<b>Version:</b> 1.337 <br>
+<b>Created Date:</b> 5/3/24 <br>
+<b>Last Updated:</b> 5/7/24 <br> 
+<b>Incident Level:</b> Sev3 (medium)<br> 
+<b>Tickets:</b> [INCIDENT-31337](https://yourjira/INCIDENT-31337) <br> 
+<b>Slack Channels:</b> #incident #incident31337 #ops <br> 
+<b>Working folder:</b> https://drive.google.com/drive/folders/1c0VhaaSbnb4-RIsibf8DKdOlkHSsNn8m <br> 
 
 # Title: SQLi reachable via REST API
 
@@ -67,9 +67,8 @@ Date - Time + Timezone + Description of event<br>
 
 
 # Incident materials
-[- Google drive folder URL
-](https://drive.google.com/drive/folders/1c0VhaaSbnb4-RIsibf8DKdOlkHSsNn8m<br>)
+[Google drive folder URL](https://drive.google.com/drive/folders/1c0VhaaSbnb4-RIsibf8DKdOlkHSsNn8m<br>)
 # Other References
 * Link to incident raw notes or working folder
 
-Sample template version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
+Sample template version 1.5 copied from [Sectemplates.com](https://www.sectemplates.com) 2025

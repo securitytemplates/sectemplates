@@ -1,5 +1,5 @@
-# Introduction to the incident response program pack 1.0
-Welcome to the incident response release pack, the goal of this release is to provide you with everything you'd need to establish a functioning security incident response program at your company. 
+# Introduction to the incident response program pack 1.5
+Welcome to the incident response release pack, the goal of this release is to provide you with everything you'd need to establish a functioning security incident response program at your company. For the <a href="https://www.sectemplates.com/incident-response/">latest news and updates on this pack please visit our website</a>. 
 <br><br>
 We suggest reviewing the material in the order specified below
 
@@ -11,7 +11,7 @@ This <a href="./Incident_response_definitions_and_severity_levels.md">document</
 This <a href="./Incident_response_preparation_checklist.md">checklist</a> provides you with every step required to research, pilot, test, and rollout a functioning incident response program. 
 
 # 3. Incident response workflow
-Below is an outline of a simplified incident response process. It aligns roughly with the content in the incident response runbook.<br><br>
+Below is an outline of a simplified incident response process. It aligns roughly with the content in the <a href="./Incident_response_runbook.md">incident response runbook</a>.<br><br>
 <img src="Incident_response_process.png">
 
 # 4. Incident response runbook
@@ -26,7 +26,7 @@ After a security incident, it's important to have a look back with key stakehold
 * What went well
 * What went 'ok'
 * What went poorly
-* Action items/follow ups to improve efficiencies moving forward<br>
+* Action items/follow-ups to improve efficiencies moving forward<br>
 
 Scheduling a postmortem meeting with core incident stakeholders and using a postmortem document to capture the outcomes will provide a complete view of how the incident was handled. This enables your organization to handle future incidents more efficiently and provides an opportunity to learn and course-correct along the way. It is strongly recommended to take a <a href="./Security_incident_blameless_postmortem_template.md">'blameless' postmortem</a> approach, focusing less on personal mistakes and more on the root causes and corrective actions. This encourages people to speak up and be honest about the situation, saving time, uncovering information, and reducing fear of participation.
 
@@ -40,14 +40,14 @@ This contains common, <a href="./Incident_response_metrics.md">useful metrics</a
 <b>Question:</b> What software did you use to create the process diagram?<br>
 <b>Answer: </b> Lucidchart was used. 
 <br><br>
-<b>Question:</b> Why should I use this instead of chatgpt or other AI?<br>
+<b>Question:</b> Why should I use this instead of ChatGPT or other AI?<br>
 <b>Answer:</b> Material released on Sectemplates has been battle-tested in various companies ranging from 100 to 30,000 employees successfully and has been vetted by individuals developing and running these programs. AI can confuse standards, articles written by people who have never run such a program, and opinion pieces. Everything in Sectemplates has actually been utilized in the real world by qualified professionals.
 <br><br>
 <b>Question:</b> You seem to be missing something and I'd like to suggest a modification. How can I reach out to you?<br>
-<b>Answer: </b> Please use the <a href="https://www.sectemplates.com/contact-us.html">contact us form on our main website</a>.
+<b>Answer: </b> Please use the <a href="https://www.sectemplates.com/contact-us.html">contact us form on our main website</a>, or submit a Pull-Request.
 <br><br>
 <b>Question:</b> I'm looking for something more comprehensive, where can I go?<br>
 <b>Answer: </b> NIST has developed <a href="https://csrc.nist.gov/pubs/sp/800/61/r2/final">NIST 800-61</a> which is a more extensive incident response approach.
 
 
-Document version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
+Document version 1.5 copied from [Sectemplates.com](https://www.sectemplates.com) 2025
