@@ -28,3 +28,6 @@ By charting and measuring specific vulnerability classifications, you gain signa
 This information can then be provided to your product security and engineering teams to tackle common issues strategically and proactively.
 
 Metrics version 1.0 copied from [Sectemplates.com](https://www.sectemplates.com)
+
+## Volume based on severity
+This helps determine the severity of submissions you are getting. As you mature your program, you can try different things to try and increase the P0/P1 submissions.
