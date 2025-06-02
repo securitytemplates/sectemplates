@@ -18,7 +18,8 @@ Content is free to use for personal and commercial purposes, with the exception 
 <a href="https://x.com/Sectemplates">https://x.com/Sectemplates</a>
 
 # Available Security Programs 
-
+## Security Partners (Newest Program)
+The goal of this program pack is to provide you with minimal information to establish a functioning, and impactful security partner program. This will enable you to adopt a security partnership model, and provide you with a repeatable process to scale up as needed
 
 ## Bug Bounty 
 The goal of this release is to provide you with everything you need to establish a bug bounty program. This includes alignment with stakeholders, working with a vendor, establishing a private bug bounty, and ultimately moving to a public bug bounty. This release pack is not sponsored or influenced by any particular bug bounty vendor and is neutral to vendor biases and influence.
