@@ -1,5 +1,7 @@
 # Bug Bounty Program Pack Updates
 
+7/20/2026 - v1.3 Added information on security.txt usage to find interested researchers and other minor tweaks.
+
 12/28/2025 - v1.2 Added additional metric, and additional sample safe harbor example. 
 * Thanks to <a href="https://github.com/ykosaraju/">Yashvier</a> for the metric suggestion.
 
