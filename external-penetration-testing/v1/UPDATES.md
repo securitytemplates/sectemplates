@@ -1,6 +1,9 @@
 # External Penetration Testing Pack Updates
 
-
+7/21/2026 - V1.2 Release
+ * Updates to ensure IT is clearly included
+ * Resource addition for usability
+ * NDA/MNDA addition to diagram
 
 12/27/2024 - V1.1 - Released
  * Diagram updated to improve formatting/readability
